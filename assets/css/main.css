@@ -2554,7 +2554,8 @@
 		white-space: nowrap;
 	}
 
-		input[type="submit"]:hover, input[type="submit"]:active,
+		input[type="submit"]:hover, 
+		input[type="submit"]:active,
 		input[type="reset"]:hover,
 		input[type="reset"]:active,
 		input[type="button"]:hover,
@@ -2622,7 +2623,8 @@
 			position: relative;
 		}
 
-			input[type="submit"].next:before, input[type="submit"].next:after,
+			input[type="submit"].next:before, 
+			input[type="submit"].next:after,
 			input[type="reset"].next:before,
 			input[type="reset"].next:after,
 			input[type="button"].next:before,
@@ -2666,7 +2668,8 @@
 				z-index: 1;
 			}
 
-			input[type="submit"].next:hover:after, input[type="submit"].next:active:after,
+			input[type="submit"].next:hover:after, 
+			input[type="submit"].next:active:after,
 			input[type="reset"].next:hover:after,
 			input[type="reset"].next:active:after,
 			input[type="button"].next:hover:after,
@@ -2700,7 +2703,8 @@
 			color: #242943;
 		}
 
-			input[type="submit"].special:hover, input[type="submit"].special:active,
+			input[type="submit"].special:hover, 
+			input[type="submit"].special:active,
 			input[type="reset"].special:hover,
 			input[type="reset"].special:active,
 			input[type="button"].special:hover,
@@ -2721,7 +2725,8 @@
 				background-color: #53e3fb;
 			}
 
-		input[type="submit"].disabled, input[type="submit"]:disabled,
+		input[type="submit"].disabled, 
+		input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
 		input[type="button"].disabled,
@@ -3844,6 +3849,7 @@
 		width: 100%;
 		z-index: 10002;
 	}
+	
 
 		#menu .inner {
 			-moz-transition: -moz-transform 0.35s ease-out, opacity 0.35s ease, visibility 0.35s;
